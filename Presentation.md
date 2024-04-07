@@ -2,7 +2,7 @@
 
 pouvoir consulter/ajouter des ouvrages à l'aide des codes barres des livres, des titres et des auteurs
 
-pouvoir créer un compte personnel sur le site/l'app et y entrer ses données
+pouvoir ajouter manuellement un livre qui n'apparaitrait pas dans les resultats de recherche
 
 pouvoir créer des listes d'envies
 
