@@ -5,6 +5,7 @@ Concerne la gestion des comptes utilisateurs.
 |---|---|---|
 |Utilisateur|Pouvoir m'inscrire|Acceder au service|
 |Utilisateur|Pouvoir me connecter|Acceder au service|
+|Utilisateur|Pouvoir me connecter avec mon compte google/facebook/instagram/...|Acceder au service sans devoir créer un compte|
 |Utilisateur|Pouvoir me deconnecter|Me deconnecter|
 |Utilisateur|Pouvoir supprimer mon compte|Effacer mes données|
 |Utilisateur|Demander la re-initialisation de mon mot de passe|Retablir mon compte|
