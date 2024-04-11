@@ -13,3 +13,4 @@ Fonctionnalités principales.
 |Utilisateur|liker :heart: ou disliker :vomiting_face: des livres|pouvoir créer facilement une liste d'envie/simplement partager mon ressenti via une icône|
 |Utilisateur|commenter une fiche produit de livre|pouvoir partager mon avis|
 |Utilisateur|répondre à un autre commentaire|pouvoir réagir à un avis|
+|Utilisateur|cocher/afficher un livre comme lu sur la fiche du livre|identifier facilement si le livre est lu ou non|
